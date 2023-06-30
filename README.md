@@ -7,7 +7,7 @@
 
 ## 恋するハッカソン
 
-![ショートヘアセット](short-hair.py)
+・[ショートヘアセット](short-hair.py)<br>
 ![ロングヘアセット](long-hair.py)
 ![ポニーテイルセット](ponny-tail.py)
 ![ツインテールセット](tuwin-tail.py)
