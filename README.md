@@ -8,23 +8,23 @@
 ## 恋するハッカソン
 
 ・[ショートヘアセット](short-hair.py)<br>
-![ロングヘアセット](long-hair.py)
-![ポニーテイルセット](ponny-tail.py)
-![ツインテールセット](tuwin-tail.py)
-![たれ目セット](tareme.py) 
-![つり目セット](turime.py)
-![めがね](megane.py)
-![Cute衣装](Cute-isyou.py)
-![Sexy衣装](Sexy-isyou.py)
-![水着](mizugi.py)
+・[ロングヘアセット](long-hair.py)<br>
+・[ポニーテイルセット](ponny-tail.py)<br>
+・[ツインテールセット](tuwin-tail.py)<br>
+・[たれ目セット](tareme.py) <br>
+・[つり目セット](turime.py)<br>
+・[めがね](megane.py)<br>
+・[Cute衣装](Cute-isyou.py)<br>
+・[Sexy衣装](Sexy-isyou.py)<br>
+・[水着](mizugi.py)<br>
 
 ## プログラミングで彼女を作る
 
-![つり目](turimeset.py)
-![猫耳](nekomimiset.py)
-![ショートヘア](short-hairset.py)
-![ロングヘア](long-hairset.py)
-![ポニーテイル](ponny-tailset.py)
-![ツインテール](tuwin-tailset.py)
-![セーラー服](se-ra-hukuset.py)
-![カーディガン](ka-dhiganset.py)
+・[つり目](turimeset.py)<br>
+・[猫耳](nekomimiset.py)<br>
+・[ショートヘア](short-hairset.py)<br>
+・[ロングヘア](long-hairset.py)<br>
+・[ポニーテイル](ponny-tailset.py)<br>
+・[ツインテール](tuwin-tailset.py)<br>
+・[セーラー服](se-ra-hukuset.py)<br>
+・[カーディガン](ka-dhiganset.py)<br>
